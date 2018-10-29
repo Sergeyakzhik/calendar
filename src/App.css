@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-image: url('./assets/images/background.gif');
+  height: 100vh;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header h1 {
+  color: white;
+}
+
+.main-table {
+  margin: auto;
+  width: fit-content;
+}
